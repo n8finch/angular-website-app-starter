@@ -10,6 +10,11 @@ Download and open, but for it to run, you'll need to run a server on the root, y
 
 Can be used for a simple website using angular, or even a base to start using one something like WordPress
 
+## Todos
+
+- Make sure routing with `$locationProvider` is working well.
+- Branch to use for a simple WP theme.
+
 ## Contributing
 
 1. Fork it!
